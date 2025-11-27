@@ -1,14 +1,3 @@
-# Hi, I'm Andu!
+# Hey
 
-I'm a developer from Romania. I've been building games, websites, and digital projects since I was 11. I like experimenting with coding, game development, and digital art — basically, I love making cool things just for fun!
-
-## What i like doing
-* Game Development & Cool Projects
-* Video & Photo Editing
-* Web Development & Design
-
-## Skills
-- Lua (Intermediate/Advanced)
-- HTML & CSS (Intermediate/Beginner)
-- JavaScript (Beginner)
-- C# (Beginner)
+This is the repository for my GitHub page(s).
